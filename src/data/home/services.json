@@ -1,22 +1,22 @@
 [
   {
-    "icon": "/assets/imgs/serv-img/1.png",
-    "title": "UI / UX DESIGN",
-    "description": "There are many variations of passages of available but to the majority have suffered but the into majority.        "
+    "icon": "/assets/imgs/serv-img/2.png",
+    "title": "FRONTEND DEVELOPMENT",
+    "description": "Developed responsive web applications with a focus on delivering seamless user interfaces for several solutions."
   },
   {
-    "icon": "/assets/imgs/serv-img/2.png",
-    "title": "WEB DEVELOPMENT",
-    "description": "There are many variations of passages of available but to the majority have suffered but the into majority."
+    "icon": "/assets/imgs/serv-img/1.png",
+    "title": "UI / UX DESIGN",
+    "description": "Specialized in UI/UX design for web projects, applying design principles to create visually appealing and intuitive user interfaces."
   },
   {
     "icon": "/assets/imgs/serv-img/3.png",
-    "title": "SEO / MARKETING",
-    "description": "There are many variations of passages of available but to the majority have suffered but the into majority.        "
+    "title": "INNOVATIVE SOLUTIONS",
+    "description": "Contributing to data-informed development processes, designing and implementing innovative solutions that address real-world challenges."
   },
   {
     "icon": "/assets/imgs/serv-img/4.png",
-    "title": "TECHNOLOGY SOLUTION",
-    "description": "There are many variations of passages of available but to the majority have suffered but the into majority.        "
+    "title": "DATA RELATED PROJECTS",
+    "description": "Led the development of robust data engineering, data science solutions and web applications, facilitating data-driven decision-making."
   }
 ]
