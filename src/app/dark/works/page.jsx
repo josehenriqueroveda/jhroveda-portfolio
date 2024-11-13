@@ -1,7 +1,6 @@
 import ProgressScroll from "@/components/Common/ProgressScroll";
 import Cursor from "@/components/Common/cusor";
 import LoadingScreen from "@/components/Common/loader";
-import Nav from "@/components/dark/blogs/nav";
 import Footer from "@/components/dark/home/footer";
 import Portfolio from "@/components/dark/works/portfolio";
 import Script from "next/script";
@@ -13,7 +12,6 @@ function Works() {
       <Cursor />
       <LoadingScreen />
       <ProgressScroll />
-      <Nav />
 
       <main class="container">
         <Portfolio />

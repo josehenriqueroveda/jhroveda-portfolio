@@ -54,7 +54,9 @@ function Skills() {
                   <img src={item.photo} alt="" />
                 </div>
                 <h6>{item.title}</h6>
-                <span className="sub-title main-color mt-10">{item.result}</span>
+                <span className="sub-title main-color mt-10">
+                  {item.result}
+                </span>
               </div>
             </div>
           ))}

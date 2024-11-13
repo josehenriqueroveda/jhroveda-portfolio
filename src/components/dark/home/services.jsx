@@ -11,17 +11,28 @@ function Services() {
           <div className="col-lg-6 text-center">
             <h6 className="sub-title opacity-7 mb-15">About me</h6>
             <h3>
-              Dedicated to creating {" "}
-              <span className="main-color">intuitive and user-centered </span> experiences
+              Dedicated to creating{" "}
+              <span className="main-color">intuitive and user-centered </span>{" "}
+              experiences
             </h3>
           </div>
         </div>
         <br />
         <div className="row">
           <p>
-            As a Frontend Developer with a strong foundation in data-driven development, I bring a unique blend of UI/UX insight and technical skills to my work. My experience spans frontend technologies like React, JavaScript, HTML, and CSS, as well as backend frameworks (FastAPI, Next.js) and a background in data analysis and engineering. With over five years of experience in the tech industry, I am dedicated to creating intuitive, user-centered digital experiences and am constantly evolving my knowledge in frontend development. My goal is to contribute to innovative, impactful projects, focusing on building responsive, engaging interfaces that enhance user experience and bridge the gap between design and functionality.
-
-            Fast learner, good in troubleshooting and eager to collaborate on impactful projects.
+            As a Frontend Developer with a strong foundation in data-driven
+            development, I bring a unique blend of UI/UX insight and technical
+            skills to my work. My experience spans frontend technologies like
+            React, JavaScript, HTML, and CSS, as well as backend frameworks
+            (FastAPI, Next.js) and a background in data analysis and
+            engineering. With over five years of experience in the tech
+            industry, I am dedicated to creating intuitive, user-centered
+            digital experiences and am constantly evolving my knowledge in
+            frontend development. My goal is to contribute to innovative,
+            impactful projects, focusing on building responsive, engaging
+            interfaces that enhance user experience and bridge the gap between
+            design and functionality. Fast learner, good in troubleshooting and
+            eager to collaborate on impactful projects.
           </p>
         </div>
       </div>

@@ -9,13 +9,12 @@ function Portfolio() {
           <div className="col-lg-6">
             <h6 className="sub-title opacity-7 mb-15">Main Projects</h6>
             <h3>
-              A bit about my <br /> {" "}
+              A bit about my <br />{" "}
               <span className="main-color">work and projects</span>
             </h3>
           </div>
           <div className="col-lg-6 valign">
-            <div className="go-more full-width d-flex justify-content-end">
-            </div>
+            <div className="go-more full-width d-flex justify-content-end"></div>
           </div>
         </div>
       </div>
