@@ -2,7 +2,7 @@
   {
     "icon": "/assets/imgs/serv-img/2.png",
     "title": "FRONTEND DEVELOPMENT",
-    "description": "Developed responsive web applications with a focus on delivering seamless user interfaces for several solutions."
+    "description": "Developement of responsive web applications focused on results, delivering seamless user interfaces for software solutions."
   },
   {
     "icon": "/assets/imgs/serv-img/1.png",
@@ -16,7 +16,7 @@
   },
   {
     "icon": "/assets/imgs/serv-img/4.png",
-    "title": "DATA RELATED PROJECTS",
+    "title": "DATA EXPERIENCE",
     "description": "Led the development of robust data engineering, data science solutions and web applications, facilitating data-driven decision-making."
   }
 ]

@@ -24,10 +24,10 @@ function Profile() {
                 <p className="fz-13 text-u">Frontend Developer</p>
               </div>
               <div className="social text-center mt-20">
-                <a href="#0">
+                <a href="https://github.com/josehenriqueroveda">
                   <i className="fab fa-github"></i>
                 </a>
-                <a href="#0">
+                <a href="https://www.linkedin.com/in/jhroveda/">
                   <i className="fab fa-linkedin-in"></i>
                 </a>
               </div>

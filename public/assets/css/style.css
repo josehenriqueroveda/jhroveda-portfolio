@@ -38,7 +38,7 @@
 /* Variables f0c94a 
 -----------------------------------------------------------------*/
 :root {
-  --maincolor: #c8f31d;
+  --maincolor: #58c4dc;
 }
 
 /* Typography
@@ -2469,7 +2469,7 @@ body.loaded {
 .services .item .bord-color {
   width: 92%;
   height: 5px;
-  background: #c8f31d;
+  background: #58c4dc;
   border-radius: 4px;
   position: absolute;
   left: 4%;

@@ -7,38 +7,28 @@ function Navbar() {
         <div className="col-lg-8 rest">
           <ul className="navbar-nav main-bg d-flex justify-content-end">
             <li className="nav-item">
-              <a href="#0">
+              <a href="">
                 <span>Home</span>
               </a>
             </li>
             <li className="nav-item">
-              <a href="#0" data-scroll-nav="1">
-                <span>Services</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#0" data-scroll-nav="2">
+              <a href="" data-scroll-nav="1">
                 <span>About</span>
               </a>
             </li>
             <li className="nav-item">
-              <a href="#0" data-scroll-nav="3">
-                <span>Portfolio</span>
+              <a href="" data-scroll-nav="2">
+                <span>Skills</span>
               </a>
             </li>
             <li className="nav-item">
-              <a href="#0" data-scroll-nav="4">
-                <span>Price</span>
+              <a href="" data-scroll-nav="3">
+                <span>Projects</span>
               </a>
             </li>
             <li className="nav-item">
-              <a href="#0" data-scroll-nav="5">
-                <span>Contact</span>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a href="#0" data-scroll-nav="6">
-                <span>Blog</span>
+              <a href="" data-scroll-nav="4">
+                <span>Testimonials</span>
               </a>
             </li>
           </ul>

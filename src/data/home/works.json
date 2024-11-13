@@ -1,32 +1,26 @@
 [
   {
     "photo": "/assets/imgs/works/1.jpg",
-    "title": "GeekFolio Portfolio",
-    "link": "/dark/works/single-project"
+    "title": "FieldSim - Field Simulator",
+    "link": "",
+    "tag": "Frontend - ReactJS"
   },
   {
     "photo": "/assets/imgs/works/2.jpg",
-    "title": "Luxury Modern Website",
-    "link": "/dark/works/single-project"
+    "title": "Bible Art Maker",
+    "link": "",
+    "tag": "Backend - FastAPI"
   },
   {
     "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/dark/works/single-project"
-  },
-  {
-    "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/dark/works/single-project"
-  },
-  {
-    "photo": "/assets/imgs/works/3.jpg",
-    "title": "Partiner BPO",
-    "link": "/dark/works/single-project"
+    "title": "Agromilho",
+    "link": "",
+    "tag": "Frontend - ReactJS - NextJS"  
   },
   {
     "photo": "/assets/imgs/works/4.jpg",
-    "title": "From our gallery",
-    "link": "/dark/works/single-project"
+    "title": "ADN - Veterinary Care System",
+    "link": "",
+    "tag": "Frontend - VueJS"
   }
 ]

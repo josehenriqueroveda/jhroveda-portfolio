@@ -6,16 +6,16 @@ function NavTop() {
       <div className="container">
         <div className="row">
           <div className="col-md-4 valign">
-            <a href="#0" className="logo icon-img-60">
+            <a href="/" className="logo icon-img-60">
               <h1 className="fz-30">JHROVEDA</h1>
             </a>
           </div>
           <div className="col-md-4 valign">
             <div className="social text-center full-width">
-              <a href="#0">
+              <a href="https://github.com/josehenriqueroveda">
                 <i className="fab fa-github"></i>
               </a>
-              <a href="#0">
+              <a href="https://www.linkedin.com/in/jhroveda/">
                 <i className="fab fa-linkedin-in"></i>
               </a>
             </div>

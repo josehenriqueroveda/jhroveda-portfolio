@@ -1,17 +1,20 @@
 [
   {
     "photo": "/assets/imgs/awards/1.png",
-    "title": "Nominee",
+    "title": "President Award - Bronze",
+    "result": "Winner",
+    "year": "2023"
+  },
+  {
+    "photo": "/assets/imgs/awards/2.png",
+    "title": "Best MBA Completion Work",
+    "result": "Nominee",
+    "year": "2023"
+  },
+  {
+    "photo": "/assets/imgs/awards/3.png",
+    "title": "Outstanding Academic Performance",
+    "result": "Winner",
     "year": "2019"
-  },
-  {
-    "photo": "/assets/imgs/awards/2.png",
-    "title": "Winner",
-    "year": "2020"
-  },
-  {
-    "photo": "/assets/imgs/awards/2.png",
-    "title": "Ruuners Up",
-    "year": "2021"
   }
 ]

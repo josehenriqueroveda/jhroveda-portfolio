@@ -10,7 +10,7 @@ function Skills() {
       <div className="row">
         <div className="col-lg-4 valign">
           <div className="sec-head md-mb80 wow fadeIn">
-            <h6 className="sub-title opacity-7 mb-15">Our Skills</h6>
+            <h6 className="sub-title opacity-7 mb-15">Skills</h6>
             <h3>
               <span className="main-color">Awards</span> & Recognitions
             </h3>
@@ -31,10 +31,6 @@ function Skills() {
                       <h6 className="fz-18">{item.title}</h6>
                     </div>
                   </div>
-                  <div className="skill-progress">
-                    <span className="progres" data-value={item.persent}></span>
-                  </div>
-                  <span className="value">{item.persent}</span>
                 </div>
               </div>
             ))}
@@ -50,18 +46,15 @@ function Skills() {
                 data-wow-delay=".2s"
               >
                 <div className="d-flex">
-                  <div>
-                    <span>01</span>
-                  </div>
                   <div className="ml-auto">
                     <span>{item.year}</span>
                   </div>
                 </div>
-                <div className="img icon-img-100 mt-80 mb-30">
+                <div className="img icon-img-100 mt-40 mb-30 max-h-50">
                   <img src={item.photo} alt="" />
                 </div>
-                <h6>02x Designer Award</h6>
-                <span className="sub-title main-color mt-10">{item.title}</span>
+                <h6>{item.title}</h6>
+                <span className="sub-title main-color mt-10">{item.result}</span>
               </div>
             </div>
           ))}

@@ -17,7 +17,7 @@ const swiperOptions = {
 
 function Testimonials() {
   return (
-    <div className="sec-box testimonials section-padding">
+    <div className="sec-box testimonials section-padding" data-scroll-index="4">
       <div className="pad-left">
         <div className="sec-head mb-80 wow fadeInUp">
           <div className="row">
