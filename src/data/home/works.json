@@ -8,7 +8,7 @@
   {
     "photo": "/assets/imgs/works/2.jpg",
     "title": "Bible Art Maker",
-    "link": "",
+    "link": "https://github.com/josehenriqueroveda/bible-art-maker",
     "tag": "Backend - FastAPI"
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "photo": "/assets/imgs/works/4.jpg",
-    "title": "ADN - Veterinary Care System",
-    "link": "",
-    "tag": "Frontend - VueJS"
+    "title": "Arabian Perfumes",
+    "link": "https://arabian-perfumes.vercel.app/",
+    "tag": "Frontend - ReactJS"
   }
 ]
