@@ -20,7 +20,7 @@ function Services() {
         <br />
         <div className="row">
           <p>
-            As a Frontend Developer with a strong foundation in data-driven
+            As a FullStack Software Engineer with a strong foundation in data-driven
             development, I bring a unique blend of UI/UX insight and technical
             skills to my work. My experience spans frontend technologies like
             React, JavaScript, HTML, and CSS, as well as backend frameworks
