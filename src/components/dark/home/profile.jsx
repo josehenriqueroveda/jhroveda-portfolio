@@ -21,7 +21,7 @@ function Profile() {
               </div>
               <div className="info text-center mt-30">
                 <h5>José Henrique Roveda</h5>
-                <p className="fz-13 text-u">Frontend Developer</p>
+                <p className="fz-13 text-u">FullStack Developer</p>
               </div>
               <div className="social text-center mt-20">
                 <a href="https://github.com/josehenriqueroveda">
@@ -39,7 +39,7 @@ function Profile() {
             Welcome!<br></br>I’m{" "}
             <span className="main-color">José Henrique Roveda</span>,{" "}
             <span className="bord">
-              Frontend Developer <i></i>
+              FullStack Developer <i></i>
             </span>{" "}
             with a background in data area.
           </h1>
