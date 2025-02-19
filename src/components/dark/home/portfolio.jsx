@@ -34,6 +34,7 @@ function Portfolio() {
                     <h6 className="line-height-1">
                       <a href="">{item.title}</a>
                     </h6>
+                    <p>{item.description}</p>
                   </div>
                   <div className="ml-auto">
                     <div className="arrow">

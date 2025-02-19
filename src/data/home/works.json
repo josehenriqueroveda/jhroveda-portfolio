@@ -1,25 +1,29 @@
 [
   {
     "photo": "/assets/imgs/works/1.jpg",
-    "title": "FieldSim - Field Simulator",
-    "link": "",
-    "tag": "Frontend - ReactJS"
+    "title": "Sales Plan Platform",
+    "description": "A platform to manage sales plans and goals for companies.",
+    "link": "https://github.com/josehenriqueroveda?tab=repositories",
+    "tag": "Fullstack - ReactJS / Next.JS"
   },
   {
     "photo": "/assets/imgs/works/2.jpg",
     "title": "Bible Art Maker",
     "link": "https://github.com/josehenriqueroveda/bible-art-maker",
+    "description": "API that creates customized images of Bible verses.",
     "tag": "Backend - FastAPI"
   },
   {
     "photo": "/assets/imgs/works/3.jpg",
-    "title": "Agromilho",
-    "link": "",
-    "tag": "Frontend - ReactJS - NextJS"
+    "title": "Tailvet",
+    "description": "Management system for veterinary clinics.",
+    "link": "https://github.com/josehenriqueroveda/tailvet",
+    "tag": "Fullstack - ReactJS / Next.JS"
   },
   {
     "photo": "/assets/imgs/works/4.jpg",
     "title": "Arabian Perfumes",
+    "description": "Landing page for selling Arabic perfumes.",
     "link": "https://arabian-perfumes.vercel.app/",
     "tag": "Frontend - ReactJS"
   }
