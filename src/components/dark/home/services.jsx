@@ -12,7 +12,7 @@ function Services() {
             <h6 className="sub-title opacity-7 mb-15">About me</h6>
             <h3>
               Dedicated to creating{" "}
-              <span className="main-color">intuitive and user-centered </span>{" "}
+              <span className="main-color">innovative and intelligent</span>{" "}
               experiences
             </h3>
           </div>
@@ -20,19 +20,30 @@ function Services() {
         <br />
         <div className="row">
           <p>
-            As a FullStack Software Engineer with a strong foundation in data-driven
-            development, I bring a unique blend of UI/UX insight and technical
-            skills to my work. My experience spans frontend technologies like
-            React, JavaScript, HTML, and CSS, as well as backend frameworks
-            (FastAPI, Next.js) and a background in data analysis and
-            engineering. With over five years of experience in the tech
-            industry, I am dedicated to creating intuitive, user-centered
-            digital experiences and am constantly evolving my knowledge in
-            frontend development. My goal is to contribute to innovative,
-            impactful projects, focusing on building responsive, engaging
-            interfaces that enhance user experience and bridge the gap between
-            design and functionality. Fast learner, good in troubleshooting and
-            eager to collaborate on impactful projects.
+            I am a passionate Software Engineer specializing in Fullstack and
+            Frontend Development, with experience in React.js, Next.js,
+            JavaScript, and Python. With over five years of experience in the
+            tech industry, I build applications that merge UI/UX principles and
+            data-driven development to create intuitive and intelligent Web AI
+            applications.
+          </p>
+        </div>
+        <div className="row mt-10 mb-10">
+          <b>💡What I Bring to the Table:</b>
+          <p>
+            ✔️ Frontend – Knowledge in React.js, Next.js and Tailwind CSS,
+            optimizing performance, SEO, and accessibility. <br /> 
+            ✔️ Fullstack & API Development – Experience in Node.js, FastAPI, and PostgreSQL, building RESTful APIs and microservices for backends. <br />
+            ✔️ Web AI & Automation – Passionate about integrating AI-powered automation, LLMs, and intelligent chatbots into web applications to enhance user experiences. <br />
+            ✔️ Data-Driven Insights – Strong foundation in data engineering, ETL pipelines, and AI-powered analytics, ensuring applications leverage data effectively. <br />
+            ✔️ Languages – Competent in Javascript, Python and SQL. Willing to learn new languages and technologies.
+          </p>
+        </div>
+        <div className="row mt-10 mb-10">
+          <p>
+            🌍 Open to remote or hybrid opportunities abroad (US, Canada,
+            Europe) and interested in collaborating on cutting-edge AI-powered
+            web applications. Let's connect and build something innovative! 🚀
           </p>
         </div>
       </div>

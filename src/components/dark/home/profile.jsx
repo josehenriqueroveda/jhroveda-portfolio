@@ -55,7 +55,7 @@ function Profile() {
               </div>
               <div className="mr-40">
                 <div className="d-flex align-items-center">
-                  <h2>4+</h2>
+                  <h2>4</h2>
                   <p>
                     Years <br /> as Graphic Designer
                   </p>
